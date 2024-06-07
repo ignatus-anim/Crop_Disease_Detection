@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Potato_Early_blight",
+        "causes": [
+            "Fungal pathogen Alternaria solani",
+            "Warm, humid conditions",
+            "Infected plant debris"
+        ],
+        "recommended_solutions": [
+            "Remove and destroy infected plant parts",
+            "Practice crop rotation",
+            "Apply fungicides",
+            "Practice proper sanitation"
+        ],
+        "recommended_pesticide": [
+            "Chlorothalonil",
+            "Mancozeb"
+        ]
+    },
+    {
+        "name": "Potato_Healthy",
+        "causes": [
+            "No identifiable diseases"
+        ],
+        "recommended_solutions": [
+            "Maintain good agricultural practices, including proper watering, fertilization, and pest management"
+        ]
+    },
+    {
+        "name": "Potato_Late_blight",
+        "causes": [
+            "Fungal pathogen Phytophthora infestans",
+            "Warm, humid conditions",
+            "Infected plant debris"
+        ],
+        "recommended_solutions": [
+            "Remove and destroy infected plant parts",
+            "Practice crop rotation",
+            "Apply fungicides",
+            "Practice proper sanitation"
+        ],
+        "recommended_pesticide": [
+            "Chlorothalonil",
+            "Mancozeb"
+        ]
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Orange_Black_spot",
+        "causes": [
+            "Fungal pathogen Guignardia citricarpa",
+            "Warm, humid conditions",
+            "Rain splashes"
+        ],
+        "recommended_solutions": [
+            "Prune to improve air circulation",
+            "Remove and destroy infected plant parts",
+            "Apply fungicides",
+            "Practice proper sanitation"
+        ],
+        "recommended_pesticide": [
+            "Copper-based fungicides",
+            "Mancozeb"
+        ]
+    },
+    {
+        "name": "Orange_Canker",
+        "causes": [
+            "Bacterial pathogen Xanthomonas citri subsp. citri",
+            "Warm, wet conditions",
+            "Wounds on plants"
+        ],
+        "recommended_solutions": [
+            "Prune to remove infected branches",
+            "Apply copper-based bactericides",
+            "Practice proper sanitation"
+        ],
+        "recommended_pesticide": [
+            "Copper-based bactericides",
+            "Streptomycin sulfate"
+        ]
+    },
+    {
+        "name": "Orange_Greening",
+        "causes": [
+            "Bacterial pathogen Candidatus Liberibacter asiaticus",
+            "Spread by Asian citrus psyllid (Diaphorina citri)",
+            "Disrupts nutrient transport in plants"
+        ],
+        "recommended_solutions": [
+            "Control Asian citrus psyllid populations",
+            "Remove and destroy infected trees",
+            "Use disease-free planting material"
+        ],
+        "recommended_pesticide": [
+            "Neonicotinoids",
+            "Organophosphates"
+        ]
+    },
+    {
+        "name": "Orange_Healthy",
+        "causes": [
+            "No identifiable diseases"
+        ],
+        "recommended_solutions": [
+            "Maintain good agricultural practices, including proper watering, fertilization, and pest management"
+        ]
+    },
+    {
+        "name": "Orange_Melanose",
+        "causes": [
+            "Fungal pathogen Diaporthe citri",
+            "Warm, wet conditions",
+            "Infected plant debris"
+        ],
+        "recommended_solutions": [
+            "Prune to improve air circulation",
+            "Remove and destroy infected plant parts",
+            "Apply fungicides",
+            "Practice proper sanitation"
+        ],
+        "recommended_pesticide": [
+            "Copper-based fungicides",
+            "Mancozeb"
+        ]
+    }
+]

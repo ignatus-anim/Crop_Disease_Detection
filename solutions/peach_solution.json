@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Peach_Bacterial_spot",
+        "causes": [
+            "Bacterial pathogen Xanthomonas arboricola pv. pruni",
+            "Warm, humid conditions",
+            "Rain splashes",
+            "Wounds on plants"
+        ],
+        "recommended_solutions": [
+            "Prune to remove infected branches",
+            "Apply copper-based bactericides",
+            "Practice proper sanitation"
+        ],
+        "recommended_pesticide": [
+            "Copper-based bactericides",
+            "Streptomycin sulfate"
+        ]
+    },
+    {
+        "name": "Peach_Healthy",
+        "causes": [
+            "No identifiable diseases"
+        ],
+        "recommended_solutions": [
+            "Maintain good agricultural practices, including proper watering, fertilization, and pest management"
+        ]
+    }
+]

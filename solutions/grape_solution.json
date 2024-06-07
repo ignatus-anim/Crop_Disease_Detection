@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Grape_Black_Rot",
+        "causes": [
+            "Fungal pathogen Guignardia bidwellii",
+            "Warm, humid conditions",
+            "Infected plant debris"
+        ],
+        "recommended_solutions": [
+            "Remove and destroy infected plant parts",
+            "Improve air circulation",
+            "Apply fungicides",
+            "Practice proper sanitation"
+        ],
+        "recommended_pesticide": [
+            "Mancozeb",
+            "Myclobutanil"
+        ]
+    },
+    {
+        "name": "Grape_Esca (black measles)",
+        "causes": [
+            "Complex of fungal pathogens including Phaeoacremonium spp. and Phaeomoniella chlamydospora",
+            "Infected plant debris",
+            "Environmental stress"
+        ],
+        "recommended_solutions": [
+            "Remove and destroy infected vines",
+            "Avoid pruning during wet conditions",
+            "Improve vineyard sanitation",
+            "Apply fungicides"
+        ],
+        "recommended_pesticide": [
+            "Trifloxystrobin",
+            "Boscalid"
+        ]
+    },
+    {
+        "name": "Grape_Healthy",
+        "causes": [
+            "No identifiable diseases"
+        ],
+        "recommended_solutions": [
+            "Maintain good agricultural practices, including proper watering, fertilization, and pest management"
+        ]
+    },
+    {
+        "name": "Grape_Leaf_Blight (isariopsis leaf spot)",
+        "causes": [
+            "Fungal pathogen Pseudopezicula tetraspora",
+            "Cool, wet conditions",
+            "Infected plant debris"
+        ],
+        "recommended_solutions": [
+            "Remove and destroy infected leaves",
+            "Improve air circulation",
+            "Apply fungicides",
+            "Practice proper sanitation"
+        ],
+        "recommended_pesticide": [
+            "Captan",
+            "Mancozeb"
+        ]
+    }
+]

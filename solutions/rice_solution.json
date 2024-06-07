@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Rice_BrownSpot",
+        "causes": [
+            "Fungal pathogen Cochliobolus miyabeanus",
+            "Warm, humid conditions",
+            "Infected plant debris"
+        ],
+        "recommended_solutions": [
+            "Rotate crops",
+            "Remove and destroy infected plant debris",
+            "Apply fungicides",
+            "Practice proper water management"
+        ],
+        "recommended_pesticide": [
+            "Propiconazole",
+            "Tricyclazole"
+        ]
+    },
+    {
+        "name": "Rice_Healthy",
+        "causes": [
+            "No identifiable diseases"
+        ],
+        "recommended_solutions": [
+            "Maintain good agricultural practices, including proper water management and pest control"
+        ]
+    },
+    {
+        "name": "Rice_Hispa",
+        "causes": [
+            "Insect pest Dicladispa armigera",
+            "Feeding on rice leaves"
+        ],
+        "recommended_solutions": [
+            "Use resistant rice varieties",
+            "Apply insecticides",
+            "Practice crop rotation"
+        ],
+        "recommended_pesticide": [
+            "Bifenthrin",
+            "Thiamethoxam"
+        ]
+    },
+    
+    {
+        "name": "Rice_LeafBlast",
+        "causes": [
+            "Fungal pathogen Pyricularia oryzae",
+            "Warm, humid conditions",
+            "Infected plant debris"
+        ],
+        "recommended_solutions": [
+            "Rotate crops",
+            "Remove and destroy infected plant debris",
+            "Apply fungicides",
+            "Practice proper water management"
+        ],
+        "recommended_pesticide": [
+            "Azoxystrobin",
+            "Tricyclazole"
+        ]
+    }
+]

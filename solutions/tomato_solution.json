@@ -1,0 +1,181 @@
+[
+    {
+        "name": "Tomato__Bacterial_spot",
+        "causes": [
+            "Bacterial pathogen Xanthomonas spp.",
+            "Warm temperatures",
+            "High humidity"
+        ],
+        "recommended_solutions": [
+            "Plant resistant varieties",
+            "Apply copper-based bactericides",
+            "Practice crop rotation",
+            "Avoid overhead irrigation"
+        ],
+        "recommended_pesticide": [
+            "Copper-based bactericides",
+            "Streptomycin sulfate"
+        ]
+    },
+    {
+        "name": "Tomato__Early_blight",
+        "causes": [
+            "Fungal pathogen Alternaria solani",
+            "Cool temperatures",
+            "High humidity",
+            "Wind",
+            "Infected soil or debris"
+        ],
+        "recommended_solutions": [
+            "Plant resistant varieties",
+            "Apply fungicides",
+            "Practice crop rotation",
+            "Remove infected plant debris"
+        ],
+        "recommended_pesticide": [
+            "Chlorothalonil",
+            "Mancozeb"
+        ]
+    },
+    {
+        "name": "Tomato__Late_blight",
+        "causes": [
+            "Fungal pathogen Phytophthora infestans",
+            "Cool temperatures",
+            "High humidity",
+            "Wind",
+            "Infected soil or debris"
+        ],
+        "recommended_solutions": [
+            "Plant resistant varieties",
+            "Apply fungicides",
+            "Practice crop rotation",
+            "Improve air circulation around plants"
+        ],
+        "recommended_pesticide": [
+            "Chlorothalonil",
+            "Metalaxyl"
+        ]
+    },
+    {
+        "name": "Tomato__Leaf_Mould",
+        "causes": [
+            "Fungal pathogen Fulvia fulva",
+            "Warm temperatures",
+            "High humidity"
+        ],
+        "recommended_solutions": [
+            "Plant resistant varieties",
+            "Apply fungicides",
+            "Provide proper spacing between plants",
+            "Avoid overhead irrigation"
+        ],
+        "recommended_pesticide": [
+            "Chlorothalonil",
+            "Mancozeb"
+        ]
+    },
+    {
+        "name": "Tomato__Septoria_leaf_spot",
+        "causes": [
+            "Fungal pathogen Septoria lycopersici",
+            "Warm temperatures",
+            "High humidity",
+            "Water stress",
+            "Poor air circulation",
+            "Infected soil or debris"
+        ],
+        "recommended_solutions": [
+            "Remove infected leaves or plants",
+            "Improve air circulation",
+            "Water carefully",
+            "Apply fungicides",
+            "Rotate crops"
+        ],
+        "recommended_pesticide": [
+            "Chlorothalonil",
+            "Mancozeb"
+        ]
+    },
+    {
+        "name": "Tomato__Spider_mites Two-spotted_spider_mite",
+        "causes": [
+            "Spider mites (Tetranychus urticae) feeding on tomato plants",
+            "Warm and dry conditions"
+        ],
+        "recommended_solutions": [
+            "Use biological control agents like predatory mites",
+            "Apply insecticidal soap or neem oil",
+            "Improve plant vigor through proper watering and fertilization"
+        ],
+        "recommended_pesticide": [
+            "Insecticidal soap",
+            "Neem oil"
+        ]
+    },
+    {
+        "name": "Tomato__Target_Spot",
+        "causes": [
+            "Fungal pathogen Corynespora cassiicola",
+            "Warm temperatures",
+            "High humidity"
+        ],
+        "recommended_solutions": [
+            "Plant resistant varieties",
+            "Apply fungicides",
+            "Practice crop rotation",
+            "Provide proper spacing between plants"
+        ],
+        "recommended_pesticide": [
+            "Chlorothalonil",
+            "Mancozeb"
+        ]
+    },
+    {
+        "name": "Tomato__Tomato_Yellow_Leaf_Curl_Virus",
+        "causes": [
+            "Viral pathogen transmitted by whiteflies",
+            "Causes yellowing and curling of tomato leaves"
+        ],
+        "recommended_solutions": [
+            "Use insecticides to control whiteflies",
+            "Plant resistant varieties",
+            "Remove and destroy infected plants",
+            "Implement whitefly control measures in neighboring crops"
+        ],
+        "recommended_pesticide": [
+            "Imidacloprid",
+            "Pyriproxyfen"
+        ]
+    },
+    {
+        "name": "Tomato__Tomato_mosaic_virus",
+        "causes": [
+            "Viral pathogen causing mosaic patterns and stunted growth",
+            "Transmitted through contaminated tools, seeds, or sap"
+        ],
+        "recommended_solutions": [
+            "Use virus-free seeds and transplants",
+            "Control aphids, which can transmit the virus",
+            "Remove and destroy infected plants",
+            "Practice strict sanitation measures"
+        ],
+        "recommended_pesticide": [
+            "Insecticidal soap (to control aphids)",
+            "Neem oil (to control aphids)"
+        ]
+    },
+    
+    {
+        "name": "Tomato__healthy",
+        "causes": [
+            "No identifiable diseases"
+        ],
+        "recommended_solutions": [
+            "Maintain good agricultural practices, including proper watering, fertilization, and pest management"
+        ],
+        "recommended_pesticide": [
+            "No need for Pesticide"
+        ]
+    }
+]

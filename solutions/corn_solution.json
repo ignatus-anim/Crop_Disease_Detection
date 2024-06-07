@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Corn_(maize)__Cercospora_leaf_spot Gray_leaf_spot",
+        "causes": [
+            "Warm temperatures",
+            "High humidity",
+            "Water stress",
+            "Poor air circulation",
+            "Infected soil or debris"
+        ],
+        "recommended_solutions": [
+            "Remove infected leaves or plants",
+            "Improve air circulation",
+            "Water carefully",
+            "Apply fungicides",
+            "Rotate crops"
+        ],
+        "recommended_pesticide": [
+            "Mancozeb",
+            "Chlorothalonil"
+        ]
+    },
+    {
+        "name": "Corn_(maize)__Common_rust",
+        "causes": [
+            "Cool temperatures",
+            "High humidity",
+            "Wind",
+            "Infected soil or debris"
+        ],
+        "recommended_solutions": [
+            "Remove infected leaves or plants",
+            "Improve air circulation",
+            "Apply fungicides",
+            "Rotate crops",
+            "Plant resistant varieties"
+        ],
+        "recommended_pesticide": [
+            "Propiconazole",
+            "Azoxystrobin"
+        ]
+    },
+ 
+    {
+        "name": "Corn_(maize)__Northern_Leaf_Blight",
+        "causes": [
+            "Cool temperatures",
+            "High humidity",
+            "Wind",
+            "Infected soil or debris"
+        ],
+        "recommended_solutions": [
+            "Remove infected leaves or plants",
+            "Improve air circulation",
+            "Apply fungicides",
+            "Rotate crops",
+            "Plant resistant varieties"
+        ],
+        "recommended_pesticide": [
+            "Azoxystrobin",
+            "Pyraclostrobin"
+        ]
+    },
+    {
+        "name": "Corn_(maize)__healthy",
+        "causes": [
+            "No identifiable diseases"
+        ],
+        "recommended_solutions": [
+            "Maintain good agricultural practices, including proper watering, fertilization, and pest management"
+        ],
+        "recommended_pesticide": [
+            "No need for Pesticide"
+        ]
+    },
+    
+    {
+        "name": "Corn(maize)__Streak",
+        "causes": [
+            "Infected soil or debris",
+            "Insect vectors (e.g. beetles)"
+        ],
+        "recommended_solutions": [
+            "Remove infected leaves or plants",
+            "Apply insecticides",
+            "Rotate crops",
+            "Plant resistant varieties"
+        ],
+        "recommended_pesticide": [
+            "Imidacloprid",
+            "Lambda-cyhalothrin"
+        ]
+    }
+]

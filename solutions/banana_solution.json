@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Banana_Cordana",
+        "causes": [
+            "Fungal pathogen Cordana musae",
+            "Warm temperatures",
+            "High humidity",
+            "Infected plant debris"
+        ],
+        "recommended_solutions": [
+            "Remove infected leaves or plants",
+            "Improve air circulation",
+            "Apply fungicides",
+            "Rotate crops"
+        ],
+        "recommended_pesticide": [
+            "Mancozeb",
+            "Thiophanate-methyl"
+        ]
+    },
+    {
+        "name": "Banana_Healthy",
+        "causes": [
+            "No identifiable diseases"
+        ],
+        "recommended_solutions": [
+            "Maintain good agricultural practices, including proper watering, fertilization, and pest management"
+        ]
+    },
+    {
+        "name": "Banana_Pestalotiopsis",
+        "causes": [
+            "Fungal pathogen Pestalotiopsis",
+            "Warm temperatures",
+            "High humidity",
+            "Infected plant debris"
+        ],
+        "recommended_solutions": [
+            "Remove infected leaves or plants",
+            "Improve air circulation",
+            "Apply fungicides",
+            "Rotate crops"
+        ],
+        "recommended_pesticide": [
+            "Mancozeb",
+            "Thiophanate-methyl"
+        ]
+    },
+    {
+        "name": "Banana_Sigatoka",
+        "causes": [
+            "Fungal pathogens Mycosphaerella fijiensis (Black Sigatoka) or Mycosphaerella musicola (Yellow Sigatoka)",
+            "Warm temperatures",
+            "High humidity",
+            "Poor air circulation",
+            "Infected plant debris"
+        ],
+        "recommended_solutions": [
+            "Remove and destroy infected leaves",
+            "Improve air circulation",
+            "Apply fungicides",
+            "Use resistant varieties"
+        ],
+        "recommended_pesticide": [
+            "Chlorothalonil",
+            "Propiconazole"
+        ]
+    }
+]

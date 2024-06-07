@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Cherry_Healthy",
+        "causes": [
+            "No identifiable diseases"
+        ],
+        "recommended_solutions": [
+            "Maintain good agricultural practices, including proper watering, fertilization, and pest management"
+        ]
+    },
+    {
+        "name": "Cherry_Powdery_Mildew",
+        "causes": [
+            "Fungal pathogens Podosphaera clandestina",
+            "Warm, dry conditions followed by high humidity",
+            "Poor air circulation"
+        ],
+        "recommended_solutions": [
+            "Prune to improve air circulation",
+            "Remove and destroy infected plant parts",
+            "Apply fungicides",
+            "Water plants at the base to avoid wetting foliage"
+        ],
+        "recommended_pesticide": [
+            "Sulfur",
+            "Myclobutanil"
+        ]
+    }
+]

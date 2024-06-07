@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Mango_Anthracnose",
+        "causes": [
+            "Fungal pathogen Colletotrichum gloeosporioides",
+            "Warm, humid conditions",
+            "Infected plant debris"
+        ],
+        "recommended_solutions": [
+            "Prune to improve air circulation",
+            "Remove and destroy infected plant parts",
+            "Apply fungicides",
+            "Practice proper sanitation"
+        ],
+        "recommended_pesticide": [
+            "Copper-based fungicides",
+            "Mancozeb"
+        ]
+    },
+    {
+        "name": "Mango_Bacterial_Canker",
+        "causes": [
+            "Bacterial pathogen Xanthomonas campestris pv. mangiferaeindicae",
+            "Warm, humid conditions",
+            "Wounds on plants"
+        ],
+        "recommended_solutions": [
+            "Prune to remove infected branches",
+            "Apply copper-based bactericides",
+            "Practice proper sanitation"
+        ],
+        "recommended_pesticide": [
+            "Copper-based bactericides",
+            "Streptomycin sulfate"
+        ]
+    },
+    {
+        "name": "Mango_Cutting_Weevil",
+        "causes": [
+            "Insect pest Sternochetus mangiferae",
+            "Feeding on young shoots and leaves"
+        ],
+        "recommended_solutions": [
+            "Prune to remove infested parts",
+            "Apply insecticides",
+            "Use physical barriers to protect young shoots"
+        ],
+        "recommended_pesticide": [
+            "Chlorpyrifos",
+            "Fipronil"
+        ]
+    },
+    {
+        "name": "Mango_Die_Back",
+        "causes": [
+            "Various fungal pathogens including Fusarium spp. and Colletotrichum gloeosporioides",
+            "Environmental stress",
+            "Wounds on plants"
+        ],
+        "recommended_solutions": [
+            "Prune to remove infected branches",
+            "Apply fungicides",
+            "Practice proper sanitation",
+            "Ensure proper irrigation and drainage"
+        ],
+        "recommended_pesticide": [
+            "Copper-based fungicides",
+            "Mancozeb"
+        ]
+    },
+    {
+        "name": "Mango_Gall_Midge",
+        "causes": [
+            "Insect pest Procontarinia matteiana",
+            "Larvae feeding on young leaves and flowers"
+        ],
+        "recommended_solutions": [
+            "Prune to remove infested parts",
+            "Apply insecticides",
+            "Practice proper sanitation"
+        ],
+        "recommended_pesticide": [
+            "Chlorpyrifos",
+            "Deltamethrin"
+        ]
+    },
+    {
+        "name": "Mango_Healthy",
+        "causes": [
+            "No identifiable diseases"
+        ],
+        "recommended_solutions": [
+            "Maintain good agricultural practices, including proper watering, fertilization, and pest management"
+        ]
+    },
+    {
+        "name": "Mango_Powdery_Mildew",
+        "causes": [
+            "Fungal pathogen Oidium mangiferae",
+            "Warm, dry conditions followed by high humidity"
+        ],
+        "recommended_solutions": [
+            "Prune to improve air circulation",
+            "Remove and destroy infected plant parts",
+            "Apply fungicides",
+            "Avoid overhead irrigation"
+        ],
+        "recommended_pesticide": [
+            "Sulfur",
+            "Myclobutanil"
+        ]
+    },
+    {
+        "name": "Mango_Sooty_Mould",
+        "causes": [
+            "Fungal growth on honeydew secreted by insects like aphids and scale insects",
+            "Presence of honeydew on plant surfaces"
+        ],
+        "recommended_solutions": [
+            "Control aphids and scale insects",
+            "Improve air circulation",
+            "Prune to remove affected parts",
+            "Apply fungicides"
+        ],
+        "recommended_pesticide": [
+            "Neem oil",
+            "Horticultural oil"
+        ]
+    }
+]

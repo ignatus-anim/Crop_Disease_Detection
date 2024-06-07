@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Apple_Scab",
+        "causes": [
+            "Fungal pathogen Venturia inaequalis",
+            "Cool, wet weather",
+            "Infected plant debris"
+        ],
+        "recommended_solutions": [
+            "Remove and destroy fallen leaves",
+            "Apply fungicides",
+            "Plant resistant varieties",
+            "Improve air circulation"
+        ],
+        "recommended_pesticide": [
+            "Captan",
+            "Mancozeb"
+        ]
+    },
+
+    {
+        "name": "Apple_Black_rot",
+        "causes": [
+            "Fungal pathogen Botryosphaeria obtusa",
+            "Warm temperatures",
+            "High humidity",
+            "Infected plant debris"
+        ],
+        "recommended_solutions": [
+            "Remove infected fruit and branches",
+            "Improve air circulation",
+            "Apply fungicides",
+            "Practice proper sanitation"
+        ],
+        "recommended_pesticide": [
+            "Captan",
+            "Mancozeb"
+        ]
+    },
+    {
+        "name": "Cedar_Apple_Rust",
+        "causes": [
+            "Fungal pathogens Gymnosporangium spp.",
+            "Cool, wet conditions",
+            "Presence of alternate hosts (e.g. junipers)"
+        ],
+        "recommended_solutions": [
+            "Remove nearby juniper plants",
+            "Apply fungicides",
+            "Plant resistant apple varieties",
+            "Improve air circulation"
+        ],
+        "recommended_pesticide": [
+            "Myclobutanil",
+            "Sulfur"
+        ]
+    },
+    {
+        "name": "Apple_Healthy",
+        "causes": [
+            "No identifiable diseases"
+        ],
+        "recommended_solutions": [
+            "Maintain good agricultural practices, including proper watering, fertilization, and pest management"
+        ]
+    }
+    
+
+]

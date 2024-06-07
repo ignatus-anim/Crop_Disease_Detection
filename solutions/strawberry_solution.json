@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Strawberry_Healthy",
+        "causes": [
+            "No identifiable diseases"
+        ],
+        "recommended_solutions": [
+            "Maintain good agricultural practices, including proper watering, fertilization, and pest management"
+        ]
+    },
+    {
+        "name": "Strawberry_Leaf_scorch",
+        "causes": [
+            "Fungal pathogens Diplocarpon earlianum and Mycosphaerella fragariae",
+            "Warm, humid conditions",
+            "Overhead irrigation"
+        ],
+        "recommended_solutions": [
+            "Plant resistant varieties",
+            "Improve air circulation",
+            "Avoid overhead irrigation",
+            "Apply fungicides"
+        ],
+        "recommended_pesticide": [
+            "Mancozeb",
+            "Myclobutanil"
+        ]
+    }
+]

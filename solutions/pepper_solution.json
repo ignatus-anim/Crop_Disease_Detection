@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Pepper__Bacterial_spot",
+        "causes": [
+            "Bacterial pathogen Xanthomonas campestris pv. vesicatoria",
+            "Warm temperatures",
+            "High humidity"
+        ],
+        "recommended_solutions": [
+            "Plant resistant varieties",
+            "Apply copper-based bactericides",
+            "Practice crop rotation",
+            "Avoid overhead irrigation"
+        ],
+        "recommended_pesticide": [
+            "Copper-based bactericides",
+            "Streptomycin sulfate"
+        ]
+    },
+    {
+        "name": "Pepper__healthy",
+        "causes": [
+            "No identifiable diseases"
+        ],
+        "recommended_solutions": [
+            "Maintain good agricultural practices, including proper watering, fertilization, and pest management"
+        ],
+        "recommended_pesticide": [
+            "No need for Pesticide"
+        ]
+    },
+    {
+        "name": "Pepper__Septoria",
+        "causes": [
+            "Fungal pathogen Septoria lycopersici",
+            "Warm temperatures",
+            "High humidity",
+            "Water stress",
+            "Poor air circulation",
+            "Infected soil or debris"
+        ],
+        "recommended_solutions": [
+            "Remove infected leaves or plants",
+            "Improve air circulation",
+            "Water carefully",
+            "Apply fungicides",
+            "Rotate crops"
+        ],
+        "recommended_pesticide": [
+            "Chlorothalonil",
+            "Mancozeb"
+        ]
+    }
+]
