@@ -86,7 +86,7 @@ def attender(test_image, model, crop_diseases, model_prediction, check_confidenc
 def main():
     # SideBar
     st.sidebar.title("Dashboard")
-    app_mode = st.sidebar.selectbox("Select Crop", ["Home", "About", "Disease_Prediction"])
+    app_mode = st.sidebar.selectbox("Select Mode", ["Home", "About", "Disease_Prediction"])
 
     # HomePage
     if app_mode == "Home":
