@@ -91,7 +91,7 @@ def main():
     # HomePage
     if app_mode == "Home":
         st.header("CROP DISEASE RECOGNITION SYSTEM")
-        image_path = 'home.jpeg'
+        image_path = 'photos/apple.jpeg'
         st.image(image_path, use_column_width=True)
         st.markdown(homeinfo)
 
@@ -116,6 +116,7 @@ def main():
 
         st.write(f'You selected {crop}. Displaying {crop} disease prediction...')
         st.header(f"{crop} Disease Recognition")
+        st.image(f'photos\{crop.lower()}.jpeg',use_column_width=True )
          
         # Choice between camera and file uploader
         choice = st.radio("Choose input method", ("Upload Image", "Use Camera"))
