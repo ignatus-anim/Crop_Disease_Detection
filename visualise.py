@@ -26,8 +26,8 @@ for filename in os.listdir(history_dir):
         plt.figure(figsize=(14, 5))
         
         plt.subplot(1, 2, 1)
-        plt.plot(epochs, accuracy, 'bo-', label='Training accuracy')
-        plt.plot(epochs, val_accuracy, 'ro-', label='Validation accuracy')
+        plt.plot(epochs, accuracy, label='Training accuracy')
+        plt.plot(epochs, val_accuracy, label='Validation accuracy')
         plt.title(f'Training and Validation Accuracy - {crop_name}')
         plt.xlabel('Epochs')
         plt.ylabel('Accuracy')
@@ -35,8 +35,8 @@ for filename in os.listdir(history_dir):
         
         # Plot Loss
         plt.subplot(1, 2, 2)
-        plt.plot(epochs, loss, 'bo-', label='Training loss')
-        plt.plot(epochs, val_loss, 'ro-', label='Validation loss')
+        plt.plot(epochs, loss, label='Training loss')
+        plt.plot(epochs, val_loss, label='Validation loss')
         plt.title(f'Training and Validation Loss - {crop_name}')
         plt.xlabel('Epochs')
         plt.ylabel('Loss')
